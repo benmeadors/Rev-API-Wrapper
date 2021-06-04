@@ -2,9 +2,6 @@ import os
 import requests
 
 
-#Sandbox Client API Key: 1wkHxJTn17u8tYkuE5ZkAIRoYfk
-#Sandbox User API Key: LxkAALygbip+1WP813mm7YfqfuM=
-#Sandbox User Email: benjaminm@spotify.com
 
 
 app_id = os.environ.get('client_api_key', None)
